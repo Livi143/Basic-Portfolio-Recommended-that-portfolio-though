@@ -16,6 +16,27 @@ body {
    clear: both; 
 }
 
+h1, h2, h3, p {
+    margin-bottom: 20px;
+}
+
+p:last-child {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: 700;
+    color: #4aaaa5;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: : 3px solid #ddd;
+    padding-bottom: 20px;
+}
+
+h2, h3 {
+    font-size: 22px;
+}
+
 /*header*/ 
 
 #masthead {
