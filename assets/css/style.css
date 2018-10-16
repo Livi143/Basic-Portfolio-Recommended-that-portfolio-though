@@ -231,6 +231,13 @@ nav a {
         .main-container {
             max-width: 420px;
         }
+        .work {
+            width: 100%;
+        }
+        .auth-image {
+            width: 100%;
+            margin-bottom: 20px;
+        }
      }
 
 
