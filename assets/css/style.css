@@ -221,9 +221,16 @@ nav a {
      }
 
      @media only screen and (max-width: 980px) {
-         p {
-             color: blue;
-         }
+        .container {
+             padding: 0 20px;
+             max-width: 768px;
+            }
+        #main-container { 
+            padding-top: 130px;
+        }
+        .main-container {
+            max-width: 420px;
+        }
      }
 
 
