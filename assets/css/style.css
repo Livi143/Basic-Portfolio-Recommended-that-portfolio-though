@@ -8,6 +8,7 @@ body {
     line-height: 34px;
     font-family: 'Ariel', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
+    background-color: #777
 }
 
 .container {
@@ -86,6 +87,7 @@ nav a {
  /*main*/ 
  #main-container {
      padding-top: 130px;
+     background-color: white;
  }
 
  .main-section {
