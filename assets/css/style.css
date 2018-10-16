@@ -240,5 +240,28 @@ nav a {
         }
      }
 
+     @media only screen and (max-width: 768px) {
+         .main-section, {
+             max-width: 100%;
+         }
+         #main-container {
+             overflow: auto;
+         }
+         .work {
+             width: 47%;
+             margin-bottom: 10px;
+         }
+         .work: nth-child(even) {
+             margin-right: 0;
+         }
+         .work: nth-child(odd) {
+            float: right;
+        }
+        .auth-image {
+            width: 50%;
+        }
+         
+     }
+
 
 
